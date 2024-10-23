@@ -6,7 +6,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 python:3.9.19
 nginx:stable
-nginx:1.27.0io/bitnami/contour
+nginx:1.27.0
 docker.io/bitnami/elasticsearch
 docker.io/bitnami/envoy
 docker.io/bitnami/grafana
